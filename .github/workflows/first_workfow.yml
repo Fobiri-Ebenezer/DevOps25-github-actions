@@ -15,5 +15,5 @@ jobs:
               run: ls 
 
             - name: Read file 
-              run: cat dockerfile
+              run: cat Dockerfile
 
